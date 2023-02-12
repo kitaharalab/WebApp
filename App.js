@@ -231,7 +231,7 @@ function App() {
       <div className='excitement-curve-container'>
         <ExcitementCurve />
       </div>
-      <h1>qwer</h1>
+      <h1>qwerasdf</h1>
       <div className='sound-sequence-container'>
         <canvas width="1152" height="200" id="canvas2" onMouseDown={clickRect}></canvas>
       </div>
